@@ -12,7 +12,7 @@ namespace Retangulo
         public string Diagonal => (Math.Sqrt(_l * _l + _a * _a)).ToString();
     }
 }
-/*        public string Area
+/*        public string Area*
  *        {
  *          get
  *          {
